@@ -3,3 +3,4 @@
 anonymous_role:
   cluster:
     - monitor # This includes cluster health
+    - superuser
