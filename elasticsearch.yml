@@ -12,4 +12,4 @@ xpack.security.authc:
   anonymous:
     username: anonymous_user
     roles: superuser
-    authz_exception: true
+    authz_exception: false
