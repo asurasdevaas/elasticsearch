@@ -11,5 +11,5 @@ network.host: 0.0.0.0
 xpack.security.authc:
   anonymous:
     username: anonymous_user
-    roles: anonymous_role
+    roles: superuser
     authz_exception: true
